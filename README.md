@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Freddy, alias freddyfredster.
-- 👀 I’m interested in anything related to Data Analytics, with a sweet spot for Analytics Engineering.
-- 🌱 I’m currently learning about Data Modeling, SQL, Python, dbt, and familiarizing myself with the modern data stack.
+👋 I’m Freddy — Senior Power BI Developer with a focus on the Microsoft data stack (Power BI, Power Automate, Power Apps).
 
+I work on a mix of client projects and personal projects, always aiming to design solutions that are scalable, clear, and impactful.
 
-<!---
-freddyfredster/freddyfredster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m also committed to sharing knowledge — helping BI practitioners improve their craft through best practices, fresh ideas, and mentoring.
